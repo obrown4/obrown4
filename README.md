@@ -1,6 +1,6 @@
 ### Hello, I'm Owen!
 -------------------
-I'm a rising senior Computer Science student at the University of Michigan. Go Blue! 〽️🏆
+I'm a rising senior studying Computer Science at the University of Michigan. Go Blue! 〽️🏆
 
 This Summer, I was a Data Science Intern at JLG.
 
@@ -16,7 +16,7 @@ In Winter 2023, I was a Software Engineer CoOp at Rivian.
 
 🎯 Making a music insights website to provide more details on what your currently listening to.
 
-💬 Ask me about fitness, film, music, or book recs!
+💬 Ask me about fitness, Detroit Sports, film, music, or book recs!
 
 📫 Best ways to reach me: LinkedIn, Email
 
