@@ -1,11 +1,13 @@
-Hello, I'm Clay!
+### Hello, I'm Owen!
+-------------------
 I'm a rising senior Computer Science student at the University of Michigan. Go Blue! 〽️🏆
 
 This Summer, I was a Data Science Intern at JLG.
 
 In Winter 2023, I was a Software Engineer CoOp at Rivian.
 
-About Me
+### About Me
+------------
 🌱 I’m currently learning about JavaScript and React.
 
 👨‍🏫 Current Web Team Lead at Michigan Hackers.
@@ -22,4 +24,5 @@ About Me
 
 My skills:
 Languages: C++, Python, SQL, a little JavaScript
+
 Frameworks: React.js
