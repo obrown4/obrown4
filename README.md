@@ -1,6 +1,6 @@
 ### Hello, I'm Owen!
 -------------------
-I'm a rising senior studying Computer Science at the University of Michigan. Go Blue! 〽️🏆
+I'm a rising junior studying Computer Science at the University of Michigan. Go Blue! 〽️🏆
 
 This Summer, I was a Data Science Intern at JLG.
 
