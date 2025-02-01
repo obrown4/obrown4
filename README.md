@@ -23,6 +23,6 @@ In Winter 2023, I was a Software Engineer CoOp at Rivian.
 🍿 Fun Fact: I am known to listen to Steely Dan in the gym.
 
 My skills:
-Languages: C++, Python, SQL, a little JavaScript
+Languages: C++, Python, Go, SQL, a little JavaScript
 
 Frameworks: React.js
