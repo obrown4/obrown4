@@ -14,7 +14,7 @@ In Winter 2023, I was a Software Engineer CoOp at Rivian.
 
 🔭 I’m currently working on my degree, personal projects, and pursuing a SWE career!
 
-🎯 Making a music insights website to provide more details on what your currently listening to.
+🎯 Building Credit Stack.
 
 💬 Ask me about fitness, Detroit Sports, film, music, or book recs!
 
